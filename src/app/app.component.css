@@ -1,0 +1,57 @@
+html {
+    font-style:arial;
+    font-size:16px;
+    text-align:center;
+}
+
+td {
+    font-style:italic;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+    background-color:yellow;
+}
+
+#workh {
+    margin-top:10%;
+    margin-left:7%;
+    float:left;
+    background-color:rgb(168, 170, 170);
+}
+#educ {
+    background-color:rgb(163, 124, 124);
+    margin-top:10%;
+    margin-right:7%;
+    float:right;
+}
+
+#tL {
+    font-size:150%;
+    font-weight:bold;
+}
+
+#tit {
+    font-size:225%;
+}
+
+#inf, #gStr {
+    display:block;
+    font-size:75%;
+}
+
+.tDiv {
+    width: 100px; 
+    float:left; 
+    height:100px; 
+    margin:0px;
+    background-color:yellow;
+}
+
+.tit {
+    margin-block-start:0em;
+    margin-block-end:0em;
+    display:inline-block;
+    font-weight:bold;
+}

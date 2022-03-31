@@ -1,0 +1,15 @@
+h3 {
+    font-size: 150%;
+    text-align:left;
+}
+.ul {
+    font-weight:bold;
+    font-size:110%;
+    text-align:left;
+}
+
+#li {
+    font-weight:normal;
+    font-style:italic;
+    font-size:16px;
+}
